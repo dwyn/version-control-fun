@@ -16,5 +16,3 @@
 7. Merge with main `git merge <your-branch-name>`
 
 8. Push changes to Github. `git push -u origin main`
-
-No its all good!
